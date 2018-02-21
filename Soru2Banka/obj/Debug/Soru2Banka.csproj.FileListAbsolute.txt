@@ -1,0 +1,45 @@
+c:\users\asus\documents\visual studio 2013\Projects\Soru2Banka\Soru2Banka\bin\Debug\Soru2Banka.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Soru2Banka\Soru2Banka\bin\Debug\Soru2Banka.exe
+c:\users\asus\documents\visual studio 2013\Projects\Soru2Banka\Soru2Banka\bin\Debug\Soru2Banka.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.exe
+c:\users\asus\documents\visual studio 2013\Projects\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.pdb
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU2\Soru2Banka\Soru2Banka\bin\Debug\Soru2Banka.exe.config
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU2\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.exe
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU2\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.pdb
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU2\Soru2Banka\Soru2Banka\bin\Debug\Soru2Banka.exe
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU2\Soru2Banka\Soru2Banka\bin\Debug\Soru2Banka.pdb
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU2\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU2\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.Form1.resources
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU2\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.Properties.Resources.resources
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU2\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.csproj.GenerateResource.Cache
+C:\Users\X556\Desktop\SORU2\Soru2Banka\Soru2Banka\bin\Debug\Soru2Banka.exe.config
+C:\Users\X556\Desktop\SORU2\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.exe
+C:\Users\X556\Desktop\SORU2\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.pdb
+C:\Users\X556\Desktop\SORU2\Soru2Banka\Soru2Banka\bin\Debug\Soru2Banka.exe
+C:\Users\X556\Desktop\SORU2\Soru2Banka\Soru2Banka\bin\Debug\Soru2Banka.pdb
+C:\Users\X556\Desktop\SORU2\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.csprojResolveAssemblyReference.cache
+C:\Users\X556\Desktop\SORU2\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.Form1.resources
+C:\Users\X556\Desktop\SORU2\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.Properties.Resources.resources
+C:\Users\X556\Desktop\SORU2\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.csproj.GenerateResource.Cache
+C:\Users\X556\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\bin\Debug\Soru2Banka.exe.config
+C:\Users\X556\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.exe
+C:\Users\X556\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.pdb
+C:\Users\X556\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\bin\Debug\Soru2Banka.exe
+C:\Users\X556\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\bin\Debug\Soru2Banka.pdb
+C:\Users\X556\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.csprojResolveAssemblyReference.cache
+C:\Users\X556\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.Form1.resources
+C:\Users\X556\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.Properties.Resources.resources
+C:\Users\X556\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\bin\Debug\Soru2Banka.exe.config
+C:\Users\ASUS\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.exe
+C:\Users\ASUS\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.pdb
+C:\Users\ASUS\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\bin\Debug\Soru2Banka.exe
+C:\Users\ASUS\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\bin\Debug\Soru2Banka.pdb
+C:\Users\ASUS\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.Form1.resources
+C:\Users\ASUS\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.Properties.Resources.resources
+C:\Users\ASUS\Desktop\github\Veri Yapıları Banka Sorusu\Soru2Banka\Soru2Banka\obj\Debug\Soru2Banka.csproj.GenerateResource.Cache
